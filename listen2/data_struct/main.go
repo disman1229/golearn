@@ -3,8 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	var a int
-	// var func int
+	var a bool
 	fmt.Println(a)
-
 }
